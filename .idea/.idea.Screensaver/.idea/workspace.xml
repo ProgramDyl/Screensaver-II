@@ -8,18 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9001925d-b1a2-49cf-9411-c6a0db27ce02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/Screensaver.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Controllers/ShapeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Models/Circle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Models/Polygon.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Models/Rectangle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Models/Shape.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Models/Triangle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Views/DrawPanel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screensaver/src/Views/MainFrame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Screensaver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Screensaver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screensaver/src/Models/Shape.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Screensaver/src/Models/Shape.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ProgramDyl"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ProgramDyl/Screensaver-II.git",
+    "accountId": "02eea244-c823-44cf-9c63-66fcb3152093"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -79,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729606217488</updated>
-      <workItem from="1729606219372" duration="610000" />
+      <workItem from="1729606219372" duration="1791000" />
     </task>
     <servers />
   </component>
